@@ -1,0 +1,285 @@
+body
+{
+    background: url(../images/bg.jpg) center top fixed no-repeat;
+    margin: 0;
+   font-family: Myriad Pro;
+
+}
+.img_icon{
+    width: 28px;
+    height: 27px;
+}
+.img_team
+{
+    width: 85px;
+    height: 69px;
+}
+#wrapper
+{
+    
+    margin: auto;
+    padding: 0;    
+    overflow: hidden; 
+}
+#header
+{
+    width: 100%;
+    overflow: hidden;
+    background: url(../images/top-header1.png) no-repeat;
+    height: 86px;
+}
+#logo
+{
+    
+    margin-left: 416px;
+    height: 60px;
+    margin-top: 7px;
+}
+#content
+{
+    width: 1024px;
+   overflow: hidden;
+   margin: auto;
+   padding: 0;
+   margin-top: 17px;
+}
+#left
+{
+    width: 220px;
+    overflow: hidden;
+    float: left;
+    
+    margin-left: 28px;
+}
+#logo_left
+{
+    width: 224px;
+    overflow: hidden;
+}
+#logo_team
+{
+    width: 220px; 
+    overflow: hidden;
+    margin-top: 15px;
+}
+.logo_team_1
+{
+   width: 90px;
+    height: 90px;
+    float: left;
+    margin-left: 10px;
+}
+#center
+{
+    width: 498px;
+    overflow: hidden;
+    float: left;
+    background: #d9d8d8;
+    
+    margin-left: 16px;
+    border-radius: 8px;
+    margin-top: 3px;
+}
+#top_center
+{
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    
+    
+}
+#top_center_1
+{
+    width: 100%;
+    overflow: hidden;
+    float: left;
+    background: #cccccc ;
+    margin-top: 2px;
+    
+}
+#title
+{
+   
+    font-size: 14px;
+    float: left;
+    margin-left: 18px;
+    line-height: 8px;
+    color: rgba(0, 0, 0, 0.33);
+}
+#icon-img-popup
+{
+    float: right;
+    
+    margin-right: 10px;
+    
+}
+#time
+{
+    font-size: 18px;
+    margin-bottom: 5px;
+    float: right;
+    text-align: right;
+    margin-right: 25px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.74);
+    margin-top: 2px;
+}
+#time_2{
+    font-size: 18px;
+    /* float: right; */
+    text-align: right;
+    margin-right: 25px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.74);
+    margin-top: 2px;
+    overflow: hidden;
+}
+#box_center
+{
+    width: 340px;
+    height: 76px;
+    background: #bbbbbb;
+    float: left;
+    margin-left: 35px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+#box_list
+{
+    width: 295px;
+    height: 38px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 27px;
+    margin-bottom: 15px;
+}
+.menu_center
+{
+   float: left;
+    margin-left: 8px;
+    margin-top: 8px;
+    background: rgba(145, 145, 145, 0.42);
+    width: 60px;
+    border-radius: 4px;
+    padding: 5px;
+}
+.menu_center a
+{
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 4px;
+    color: #191919;
+}
+.menu_center a:hover
+{
+    color: #006cff;
+    
+}
+.fix_sp
+{
+    font-size: 14px;
+}
+.title_team
+{
+    float: left;
+    margin-left: 12px;
+    text-align: center;
+}
+.title_team_1
+{
+    width: 35px;
+    margin-top: 18px;
+}
+.title_team_2
+{
+    margin-top: 20px;
+}
+#icon_line
+{
+    float: left;
+    margin-top: 7px;
+    margin-left: 8px;
+}
+#icon_line_1
+{
+   float: left;
+    margin-top: 7px;
+    margin-left: 64px;
+}
+#title_menu_right
+{
+    width: 100%;
+    height: 45px;
+    background: black;
+}
+.title_name
+{
+    color: #bababa;
+    font-family: Myriad Pro;
+    margin-left: 20px;
+    font-weight: bold;
+    line-height: 45px;
+}
+.content_right
+{
+    overflow: hidden;
+    background: #2b2b2b;
+    
+}
+#team_match
+{
+    margin-bottom: 2px;
+    height: 55px;
+    background: #424242;
+    float: left;
+    width: 100%;
+}
+.nation_match
+{
+   float: left;
+    width: 100px;
+    margin-left: 6px;
+    margin-top: 8px;
+}
+.title_nation
+{
+   font-weight: bold;
+    color: #c6c6c6;
+    font-size: 14px;
+    float: right;
+}
+.nation_match_vs
+{
+    margin-top: 8px;
+    float: left;
+}
+.icon_detail
+{
+    float: left;
+    padding-left: 2px;
+}
+#right
+{
+    width: 246px;
+    overflow: hidden;
+    float: left;
+    background: blueviolet;
+    margin-left: 16px;
+    margin-top: 3px;
+    border-radius: 12px;
+}
+#footer
+{
+    width: 100%;
+    height: 100px;
+    float: left;
+    
+}
+#num_ratio
+{
+    float: left;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
